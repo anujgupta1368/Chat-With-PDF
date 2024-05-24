@@ -13,9 +13,6 @@ const { DistanceStrategy, PGVectorStore } = require('@langchain/community/vector
 
 require('dotenv').config();
 
-const projectId = "";
-const keyFilename = "";
-const bucketName = "";
 
 const storage = new Storage({ projectId, keyFilename });
 const bucket = storage.bucket(bucketName);
@@ -26,7 +23,6 @@ const uploadFileHandler = async (req, res) => {
     const uniqueFilename = uuidv4();
     
     const embeddings = new OpenAIEmbeddings({
-        openAIApiKey:""
     });
 
     const config = {
