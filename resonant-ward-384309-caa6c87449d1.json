@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "resonant-ward-384309",
+  "private_key_id": "caa6c87449d1e9ad8be4ba95a197a0e29e7780d0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDonhX//XUBmjg3\nsTq3BCzkcmLs6fPuu0XJSsw3ik417jdPigyOfl/4RjvYoKVc3bWi1nfY+L71hEwT\nmq5gFsN1WsIGoa18Tlnccx91orltPWckM0mdQG79wabWYYb9BaA8meDGZ1aT4uA7\nlbDbOejtnCQbF4BBASwAmSxw0mE22DkA+7CoXjJUpHoGnQbOMiLRyC62AVPEHjDO\nLaZP17aId0QNUTpu/omNLo/IpP9KIRXwaWLEtLHpRmywbwh4LvDi8NPE9M1Bc+0k\nporyaQ4IbxmQDhVJpRuqzQItclXfKR/P9YV5LopQPLLvSE9oBfux9qNXQDN+uqi4\npLqzQtxfAgMBAAECggEAULTYiTKU7/Nj4d65slnegXw2WmBpY8DR257576Mqs4ds\n5UnORXoPLgKgLO6/sNKzfEXQ2xSinGhEROD78xayxfqxKr/ZgzFj+BpxJc1JbF9L\nc8HfnpGGcMBJdEPuI8dZ6uywkeW0oiarCcFL1SPobtgnpsamlucjLyn1w0cat33w\nEacK71+EOA3HLtUElkuvr4bOsiHDhbQIKXH0UxfFg9KG7a5iQRwk4+hQ0ZXMiaTb\nGBP0BSNwxGlUv0s86ZS0bH8oX5BrK6q2rqw3LEH54LCXhZIJEZHjLCXZZGAkiorr\nrGH9YcaXGvZkVoVqT7d11zz2FQfINBwOmgDPVEnqUQKBgQD7LVeHIFzVrjCIvp7g\n7fpQwjh4z8RG8cQeAWyZiXMl5kZ68CURy0UZrpgxLsIoqTeGgBUP1+fwHinN0xwo\nVAph6i+3LgXInPEVvzTybiQwt9KGQQjwg6s9Lspgdsv8SNsleOLfqV20k08b7dwJ\n3//Qqf7bT8ppksjckWcVZZW+AwKBgQDtFYO7CKocl9bTKysTnzrWjPR+7IQBl23M\n2B/CtBuOi0R1E6fHo/Hu3eu5hwJzjvNHjYXLIgl3A883HrbfdNlwwyru+9j85Ut9\nYPPiDZbqkfOl0O2EBrmp5+yutBaLL2gBax36AcJ1ezSeFpeQKedv1hr70bZx24D/\n/NMfoMBXdQKBgQDxoFO0HNDRiikMUvu5+5SyfbQfnBb//HGiP9J9/Pi1e8lPWJcA\ngB+wLgIgRg/nV6mfjLU2MYfguNOUOcK7lOUL/mH6gJ51t2xAdFj14jiUWTF/jy6P\nWMqxJ8LtezqOLnQKnzj42g/Xt2IBxxbGtSJ9VBtkVGSunNL3RDT7I2ciiwKBgFRT\nSK1noYnV/9TQD9xE0Fqre/MBENq4D5fCb1mDUiHbKxgxS4XYrB531HYCrT6I48LZ\ndXMQwikQs805IXZNS2GuKUEjVsRskfMgXt5SUxFPpEegDjrdYYArO6XP7AzJacbH\nYLwhkBbVIZvxESt3nBfNIX/b0XahyjpCpJ0lQgRZAoGBAONk7fGzUXdBGvTl/Hki\n3d3MwDcTJj0a2dcBAJP9ekN3rUPYaRwL+2iRqr4QN1plw+sWGS9AIIL58vkUGN5b\no9lBWb7Ip0xT/ia5+z0XcONDsIRzkgRrUQ47/yYq9wGah3WUUK6fik9dDrkdrnk8\nOgZjJFQJQ1I0xaBd9Woz8jua\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatpdfstorage@resonant-ward-384309.iam.gserviceaccount.com",
+  "client_id": "108045922061676590215",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatpdfstorage%40resonant-ward-384309.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
