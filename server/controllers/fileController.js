@@ -112,13 +112,6 @@ const uploadFileHandler = async (req, res) => {
 }
 
 
-// const openai = new OpenAI({
-//     apiKey: "sk-proj-nbsE5SkfhLdQ599z3AyrT3BlbkFJYv8lHJxtXrVN6lp0qBa2",
-//     organization: "org-ZyAqCrIPrW9jLwomy6vyZgJ3",
-//     project: "proj_5yEqrSOui83vMP3gBNy2sR22",
-// });
-
-
 const getAllProjects = async (req, res) => {
     try {
         const projectQuery = 'SELECT * FROM pdf';
