@@ -13,9 +13,9 @@ const { DistanceStrategy, PGVectorStore } = require('@langchain/community/vector
 
 require('dotenv').config();
 
-const projectId = "1094003029366";
-const keyFilename = "./resonant-ward-384309-caa6c87449d1.json";
-const bucketName = "chatpdfdata";
+const projectId = "";
+const keyFilename = "";
+const bucketName = "";
 
 const storage = new Storage({ projectId, keyFilename });
 const bucket = storage.bucket(bucketName);
